@@ -44,8 +44,7 @@ streamlit run app.py
 
 ## **Project Structure**
 
-
-```php
+```
 object-segmentation-and-identification/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # List of dependencies
@@ -53,9 +52,9 @@ object-segmentation-and-identification/
 ├── utils/                 # Utility functions for processing
 ├── data/                  # Sample images and data for testing (Pascal VOC format)
 ├── README.md              # Project documentation
-└── .gitignore             # Ignored files ```
-
-## **Technologies Used**
+└── .gitignore             # Ignored files 
+```
+## Technologies Used
      
 ▫️ **Python:** Core programming language for the project.
 ▫️ **Streamlit:** Framework for creating the web-based GUI.
@@ -70,7 +69,8 @@ The project demonstrates the ability to segment and identify objects within imag
 
 Contributions are encouraged! Here's how to contribute:
 1. **Fork the Repository**: Create a personal copy of the repository on GitHub.
-2. **Create a New Branch:** Work on your feature or fix using: git checkout -b feature-branch
-3. **Make Changes:** Implement your changes and commit them: git commit -m 'Add new feature'
-4. **Push to the Branch:** Push your changes to your fork: git push origin feature-branch
+2. **Create a New Branch:** Work on your feature or fix using: ``` git checkout -b feature-branch ```
+3. **Make Changes:** Implement your changes and commit them: 
+``` git commit -m 'Add new feature' ```
+4. **Push to the Branch:** Push your changes to your fork: ``` git push origin feature-branch ```
 5. **Open a Pull Request:** Submit a pull request to the original repository with a description of your changes.
