@@ -1,4 +1,4 @@
-# ** Object Segmentation and Identification**
+#  Object Segmentation and Identification
 
 This project provides a comprehensive solution for object segmentation and identification using deep learning techniques, specifically leveraging the Pascal VOC dataset. The model processes images to segment distinct objects, identify them, and label them accordingly. An intuitive Streamlit GUI allows users to upload images, perform segmentation, save results with unique identifiers, and maintain a structured database for efficient object identification.
 
@@ -45,7 +45,7 @@ streamlit run app.py
 ## **Project Structure**
 
 
-object-segmentation-and-identification/
+'''object-segmentation-and-identification/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # List of dependencies
 ├── models/                # Pre-trained models for segmentation and identification
