@@ -15,18 +15,19 @@ This project provides a comprehensive solution for object segmentation and ident
 
 ## Installation
 1. **Clone the repository**:
-
+```
    git clone https://github.com/pratham-asthana/object-segmentation-and-identification.git
-   cd object-segmentation-and-identification
-   
-2.** Create and activate a virtual environment (optional but recommended):**
-
-python3 -m venv venv
+   cd object-segmentation-and-identification 
+ ```  
+2. **Create and activate a virtual environment (optional but recommended):**
+```
+ python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
+```
 3. **Install the required dependencies:**
-
+```
 pip install -r requirements.txt
+```
 **Usage**
 1. Run the Streamlit application:
 streamlit run app.py
