@@ -45,17 +45,18 @@ streamlit run app.py
 ## **Project Structure**
 
 
-'''object-segmentation-and-identification/
+```php
+object-segmentation-and-identification/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # List of dependencies
 ├── models/                # Pre-trained models for segmentation and identification
 ├── utils/                 # Utility functions for processing
 ├── data/                  # Sample images and data for testing (Pascal VOC format)
 ├── README.md              # Project documentation
-└── .gitignore             # Ignored files'''
+└── .gitignore             # Ignored files ```
 
 ## **Technologies Used**
-
+     
 ▫️ **Python:** Core programming language for the project.
 ▫️ **Streamlit:** Framework for creating the web-based GUI.
 ▫️ **OpenCV:** Library for image processing and computer vision tasks.
