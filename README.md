@@ -45,14 +45,14 @@ streamlit run app.py
 ## **Project Structure**
 
 
-''' object-segmentation-and-identification/
+'''object-segmentation-and-identification/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # List of dependencies
 ├── models/                # Pre-trained models for segmentation and identification
 ├── utils/                 # Utility functions for processing
 ├── data/                  # Sample images and data for testing (Pascal VOC format)
 ├── README.md              # Project documentation
-└── .gitignore             # Ignored files '''
+└── .gitignore             # Ignored files'''
 
 ## **Technologies Used**
 
