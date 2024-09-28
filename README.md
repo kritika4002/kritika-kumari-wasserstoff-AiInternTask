@@ -39,8 +39,11 @@ streamlit run app.py
 ## **Features**
 📍 **Object Segmentation:** Utilizes deep learning models trained on the Pascal VOC dataset to accurately segment objects in uploaded images.
 📍 **Object Identification:** Identifies and labels segmented objects based on Pascal VOC categories.
+
 📍 **User-Friendly Streamlit GUI**: An intuitive interface for seamless interaction with the model.
+
 📍 **Database Management:** Maintains a database of segmented objects for future retrieval and identification.
+
 📍 **Instant Feedback:** Real-time processing and display of results.
 
 ## **Project Structure**
@@ -58,9 +61,13 @@ object-segmentation-and-identification/
 ## Technologies Used
      
 ▫️ **Python:** Core programming language for the project.
+
 ▫️ **Streamlit:** Framework for creating the web-based GUI.
+
 ▫️ **OpenCV:** Library for image processing and computer vision tasks.
+
 ▫️ **PyTorch:** Deep learning framework for object segmentation and identification using Pascal VOC data.
+
 ▫️ **MediaPipe**: Optional integration for posture detection.
 
 ## **Results**
